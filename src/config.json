@@ -5,8 +5,8 @@
 		"padding": "50"
 	},
 	"info": {
-		"name": "Farid Froozan",
-		"jobTitle": "Full Stack Developer",
+		"name": "Jeroen Van Goey",
+		"jobTitle": "Sr. Software Development Engineer - Machine Learning",
 		"about": "",
 		"images": [
 			{
@@ -14,7 +14,7 @@
 				"background_position": "right top"
 			},
 			{
-				"background_image": "/img/1.jpg",
+				"background_image": "/img/jeroen.jpg",
 				"background_position": "center"
 			},
 			{
