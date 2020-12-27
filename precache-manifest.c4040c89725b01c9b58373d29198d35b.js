@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7b0e23633cf5b9e87e470606f75341b2",
+    "revision": "d15e1ae5f8496102e0dfb65585df0083",
     "url": "/vangoey.be/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vangoey.be/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "5f0fe65dc1cf07a2cb26",
+    "revision": "ece0f927becc8d9ef662",
     "url": "/vangoey.be/static/css/main.8d52491f.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/vangoey.be/static/js/2.e1507a4b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5f0fe65dc1cf07a2cb26",
-    "url": "/vangoey.be/static/js/main.8520fcce.chunk.js"
+    "revision": "ece0f927becc8d9ef662",
+    "url": "/vangoey.be/static/js/main.f6f39b04.chunk.js"
   },
   {
     "revision": "7daeb38a328aec717cdf",
