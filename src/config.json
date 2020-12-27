@@ -612,21 +612,26 @@
 	"educations": [
 		{
 			"logo": "img/logos/master.png",
-			"title": "Islamic Azad University",
-			"time": "2019 - 2022",
-			"description": "Master's degree - Software Engineering"
+			"title": "Hogeschool West-Vlaanderen - Vlaamse Autonome Hogeschool",
+			"time": "2018 - 2019",
+			"description": "Microdegree Machine Learning and Deep Learning"
+		},
+		{
+			"logo": "img/logos/master.png",
+			"title": "Katholieke Universiteit Leuven",
+			"time": "2010 - 2012",
+			"description": "M.Sc Bioinformatics"
 		},
 		{
 			"logo": "img/logos/bachelor.png",
-			"title": "Shahrood University of Technology",
-			"time": "2014 - 2019",
-			"description": "Bachelors - Software Engineering"
+			"title": "Universiteit Antwerpen",
+			"time": "1997 - 2004",
+			"description": "M.Sc Biology"
 		}
 	],
 	"contact": {
-		"mobile": "+98 936 496 1262",
-		"email": "froozan [at] yahoo.com",
-		"github": "faridfr",
-		"linkedin": "in/faridfroozan"
+		"email": "jeroen [at] vangoey.be",
+		"github": "BioGeek",
+		"linkedin": "in/jeroenvangoey"
 	}
 }

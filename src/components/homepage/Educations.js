@@ -8,7 +8,7 @@ const Education = (props) => {
 	const educations = props.educations;
 	return (
 		<div className='educations'>
-			<div className='title'>Educations</div>
+			<div className='title'>Education</div>
 			<div className='description' style={{ paddingTop: '30px' }}>
 				{educations.map((education) => (
 					<Fragment>
