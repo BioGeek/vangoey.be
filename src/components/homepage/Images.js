@@ -4,7 +4,7 @@ import $ from 'jquery';
 import '../../js/jquery.toast.js';
 
 const MypicDiv = styled.div`
-	background-image: url('${process.env.PUBLIC_URL}/img/jeroen.jpg');
+	background-image: url('${process.env.PUBLIC_URL}/img/1.jpg');
 	background-color: #1d1d1d;
 	background-size: cover;
 	background-position: center;
