@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/vangoey.be/precache-manifest.c4040c89725b01c9b58373d29198d35b.js"
+  "/vangoey.be/precache-manifest.515239cec0dd8527a1afe63e171d8869.js"
 );
 
 self.addEventListener('message', (event) => {
