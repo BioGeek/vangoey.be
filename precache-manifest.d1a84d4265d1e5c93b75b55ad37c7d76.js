@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "342f65efdaefa78fac8430ae1350406c",
+    "revision": "7b0e23633cf5b9e87e470606f75341b2",
     "url": "/vangoey.be/index.html"
   },
   {
-    "revision": "b104a18211bb5c67083b",
+    "revision": "e08321b182c4fb130653",
     "url": "/vangoey.be/static/css/2.de424728.chunk.css"
   },
   {
-    "revision": "dc4071c01500a774ee05",
+    "revision": "5f0fe65dc1cf07a2cb26",
     "url": "/vangoey.be/static/css/main.8d52491f.chunk.css"
   },
   {
-    "revision": "b104a18211bb5c67083b",
-    "url": "/vangoey.be/static/js/2.7b0f0dcd.chunk.js"
+    "revision": "e08321b182c4fb130653",
+    "url": "/vangoey.be/static/js/2.e1507a4b.chunk.js"
   },
   {
     "revision": "01f1b5ae975a8d17e413a750f30bfaaa",
-    "url": "/vangoey.be/static/js/2.7b0f0dcd.chunk.js.LICENSE.txt"
+    "url": "/vangoey.be/static/js/2.e1507a4b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dc4071c01500a774ee05",
-    "url": "/vangoey.be/static/js/main.b07bd4a3.chunk.js"
+    "revision": "5f0fe65dc1cf07a2cb26",
+    "url": "/vangoey.be/static/js/main.8520fcce.chunk.js"
   },
   {
-    "revision": "059dd093b8972cbf03b7",
-    "url": "/vangoey.be/static/js/runtime-main.bcbd9a5f.js"
+    "revision": "7daeb38a328aec717cdf",
+    "url": "/vangoey.be/static/js/runtime-main.507c4589.js"
   },
   {
     "revision": "18e7fad541604561c8e22a36a9185404",
